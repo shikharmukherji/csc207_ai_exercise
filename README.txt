@@ -1,3 +1,5 @@
+Acts as a command-line-based primality test, and compares a naive primality test to an implementation of the Miller-Rabin primality test.
+
 Uses JAVA 20, and JUnit for testing.
 
 To compile, enter the src directory and in the command line, enter the command 'javac PrimeChecker.java'.
