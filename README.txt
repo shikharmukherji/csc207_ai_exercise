@@ -1,4 +1,5 @@
-Acts as a command-line-based primality test, and compares a naive primality test to an implementation of the Miller-Rabin primality test.
+Acts as a command-line-based primality test, and compares (both in correctness and in time taken)
+a naive primality test to an implementation of the Miller-Rabin primality test.
 
 Uses JAVA 20, and JUnit for testing.
 
